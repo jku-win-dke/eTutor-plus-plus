@@ -6,3 +6,5 @@ The duration of employment is 12 months, with possibility of extension for anoth
 Applicants must have completed a BSc degree and must be enrolled students of the MSc program business informatics at JKU Linz. 
 For this position, solid programming skills are a must. Experience with web development and knowledge representation (semantic web technologies) are a plus.
 Students can write a master's thesis based on the results of their activity in the project.
+
+For further inquiries and to submit an application with the usual documents, please contact [Christoph Schuetz](mailto:christoph.schuetz@jku.at).
