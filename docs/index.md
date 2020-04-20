@@ -26,4 +26,4 @@ Knowledge graphs will drive the personalization of student's learning experience
 
 ![Knowledge Graphs](img/knowledge-graphs.png)
 
-A domain-independent knowledge graph formalizes general knowledge used to facilitate personalization. Domain- and course-dependent knowledge graphs define topics, learning goals, questions, etc.
+In eTutor++, a domain-independent knowledge graph formalizes general knowledge used to facilitate personalization. Domain- and course-dependent knowledge graphs define topics, learning goals, questions, etc.
