@@ -13,3 +13,7 @@ The eTutor++ system will adapt to a student’s individual learning curve by upd
 Students submit solutions for the personalized assignments to the eTutor++ system for evaluation, which may be done either automatically via the eTutor++ system or through a human teacher. The eTutor++ system takes into account the assignment feedback when compiling future assignment sheets by including questions related to learning goals that the student failed to achieve in earlier stages of the course.
 
 The eTutor++ system will facilitate the reuse of question pools across semesters and courses. Even courses from different programs will be able to draw from the shared pool of questions. For example, SQL is relevant for courses in business informatics as well as business and economics. The depth of coverage, however, is different in both programs. By attaching questions and tasks with learning goals and specifying learning goals for the different courses, a business and economics course that teaches students the basics of SQL will also be able to use the shared question pool and automatically assign students preparatory questions, tailored to the respective course’s requirements.
+
+Knowledge graphs will drive the personalization of student's learning experiences. A domain-independent knowledge graph formalizes general knowledge used to facilitate personalization. Domain- and course-dependent knowledge graphs define topics, learning goals, questions, etc.
+
+![Knowledge Graphs](img/knowledge-graphs.png)
