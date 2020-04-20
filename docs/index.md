@@ -14,6 +14,10 @@ Students submit solutions for the personalized assignments to the eTutor++ syste
 
 The eTutor++ system will facilitate the reuse of question pools across semesters and courses. Even courses from different programs will be able to draw from the shared pool of questions. For example, SQL is relevant for courses in business informatics as well as business and economics. The depth of coverage, however, is different in both programs. By attaching questions and tasks with learning goals and specifying learning goals for the different courses, a business and economics course that teaches students the basics of SQL will also be able to use the shared question pool and automatically assign students preparatory questions, tailored to the respective course’s requirements.
 
-Knowledge graphs will drive the personalization of student's learning experiences. A domain-independent knowledge graph formalizes general knowledge used to facilitate personalization. Domain- and course-dependent knowledge graphs define topics, learning goals, questions, etc.
+Powered by Knowledge Graphs
+----
+Knowledge graphs will drive the personalization of student's learning experiences. A knowledge graph represents real-world entities and their relationships. Knowledge graphs are the backbone of intelligent applications, supporting a wide variety of applications, from web search to air traffic management, social network analysis to electronic commerce.
 
 ![Knowledge Graphs](img/knowledge-graphs.png)
+
+A domain-independent knowledge graph formalizes general knowledge used to facilitate personalization. Domain- and course-dependent knowledge graphs define topics, learning goals, questions, etc.
