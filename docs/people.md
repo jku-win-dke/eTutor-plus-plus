@@ -1,16 +1,8 @@
 People
 ====
 
-Christoph G. Schuetz
+**Christoph G. Schuetz** 
 
-Reinhold Plösch
+**Kevin Schütz**
 
-Manuel Wimmer
-
-Michael Schrefl
-
-Sophie Parragh
-
-Johann Höller
-
-Michael Tumpel
+**Florian Ernst** 
